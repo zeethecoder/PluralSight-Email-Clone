@@ -1,0 +1,77 @@
+.container{
+    border: 1px solid black;
+    height: 1000px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+nav{
+    border: 1px solid black;
+    height: 100px;
+}
+
+.img1{
+    display: block;
+    margin: auto;
+    margin-top: 3vh;
+}
+
+.middle-section{
+    border: 1px solid black;
+    height: 800px;
+    background-image: url('https://ci6.googleusercontent.com/proxy/7dhtzZ4hcqte0afEqVcUVw1WB8f0iojGELZzHPm2b_UiDN3lVykddgWIFPva6Lw0vAQ41QYLrYBXz4z2hL-MA-doATcVNuWWigLDCooP2KarHCphM2AhPZX3FWvQFb-CX96PsCLQVm1gFjf4s8ZOv2XBmYPCia8=s0-d-e1-ft#https://email-assets.stockx.com/emailimages/marketing/2019/StreetwearGiftGuide/header-streetwear.gif');
+    background-repeat: no-repeat;
+    background-size: 50vw 113vh;
+    background-position: center;
+}
+
+.end{
+    border: 2px solid black;
+    height: 40vh;
+    background: black;
+    color: white;
+}
+.p1{
+    padding-top: 10vh;
+    font-size: x-large;
+    width: 40vw;
+    margin: auto;
+}
+/**/
+.jacket-promo{
+    border: 2px solid black;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img2{
+    display: block;
+    margin: auto;
+    height: 28vh;
+    width: 35vh;
+}
+
+.h1{
+    text-align: center;
+}
+.p2{
+    font-size: medium;
+    width: 25vw;
+    height: 30vh;
+    margin: auto;
+    padding-top: 20px ;
+}
+
+.btn{
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.jacket-promo > .box{
+    margin: 10px;
+}
